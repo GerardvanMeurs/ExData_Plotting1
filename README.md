@@ -1,3 +1,8 @@
+## Preliminary
+
+Instead of repeatedly reading the data, preparing the data and selecting the data in all 4 scripts I programmed these activities in a separate script: plot0.R. This plot write s the data to a file hpc.RDS, which is read by the plotting scripts plot1.R, plot2.R, plot3.R and plot4.R. This is the reason why you find more than 8 files in this repo.
+
+
 ## Introduction
 
 This assignment uses data from
