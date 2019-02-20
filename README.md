@@ -1,6 +1,6 @@
 ## Preliminary
 
-Instead of repeatedly reading the data, preparing the data and selecting the data in all 4 scripts I programmed these activities in a separate script: plot0.R. This plot writes the data to a file hpc.RDS, which is read by the plotting scripts plot1.R, plot2.R, plot3.R and plot4.R.
+Instead of repeatedly reading, preparing and selecting the data in all 4 scripts I programmed these activities in a separate script: plot0.R. This plot writes the data to a file hpc.RDS, which is read by the plotting scripts plot1.R, plot2.R, plot3.R and plot4.R.
 
 
 ## Introduction
